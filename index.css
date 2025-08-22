@@ -1,0 +1,52 @@
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 350%;
+    background-color:rgb(250, 245, 240) ;
+    color: rgb(75, 30, 47);
+    width: 620px;
+    height: 150px;
+    text-align: center; 
+    position: sticky;
+    width: 100%;
+    top: 0;
+    opacity: 90%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-image: url("http://www.transparenttextures.com/patterns/cubes.png");
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(100, 50, 65);
+    font-size: 18px;
+    line-height: 1.6; /* 160% of font size */
+    background-color: rgb(255, 250, 240);
+}
+img {
+  max-width: 100%; /* image will shrink on small screens */
+  height: auto;    /* maintain aspect ratio */
+  display: block;  /* removes bottom whitespace */
+  margin: 20px auto; /* some vertical space and center horizontally */
+  border-radius: 8px; /* optional, for rounded corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* optional subtle shadow */
+  border: 5px solid black;
+}
+.text{
+    overflow-y: auto;
+    height: 300px;
+    margin: 20px;
+    padding: 50px;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(100, 50, 65);
+    font-size: 38px;
+    line-height: 1.6; /* 160% of font size */
+    background-color: rgb(255, 250, 240);
+    text-align: center;
+}
+.HOME{
+    text-align: center;
+    
+}
